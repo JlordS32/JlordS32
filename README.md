@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an aspiring software engineer. Enjoy your time looking around.
+
 <!--
 **JlordS32/JlordS32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
