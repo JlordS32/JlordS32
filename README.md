@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=JlordS32&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JlordS32&theme=dark&hide_border=false)
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JlordS32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JlordS32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 
