@@ -4,10 +4,10 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JlordS32&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JlordS32&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JlordS32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=JlordS32&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=JlordS32&theme=dark&hide_border=false" /><br/>
+  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JlordS32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 
 ### ✍️ Random Dev Quote
